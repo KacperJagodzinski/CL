@@ -1,0 +1,37 @@
+#first_span{
+	color: red;
+}
+#second_span{
+	color: blue;
+}
+#a{
+	color: red;
+}
+#b{
+	color: yellow;
+}
+#c{
+	color: purple;
+}
+.colorUnits p:nth-child(1) {
+  background: green;
+}
+.colorUnits p:nth-child(2) {
+  background: #00FFFF;
+}
+.colorUnits p:nth-child(3) {
+  background: rgb(0,255,0);
+}
+.container{
+	background-color: blue;
+	width: 200px;
+}
+.first{
+	background-color: gray;
+	width: 50%;
+}
+.second{
+	background-color: orange;
+	width: 10em;
+}
+

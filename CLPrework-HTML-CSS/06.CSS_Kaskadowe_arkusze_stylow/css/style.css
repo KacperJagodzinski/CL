@@ -1,0 +1,22 @@
+# body{
+	background-color:blue;	
+}
+.block{
+		height: 50px;
+		width: 100px;
+		border: solid 3px;
+		border-color: red;
+		display: block;
+		}
+.b{
+	color: brown;
+}
+#first_paragraph{
+	color: green;
+}
+#second_paragraph{
+	color: violet;
+}
+p{
+	color: brown;
+}

@@ -1,0 +1,19 @@
+.squareList{
+list-style-type: square;
+}
+.menuList{
+color: #116493;
+height:70px;
+
+}
+nav ul li{
+list-style-type: none;
+width:100px;
+float: left;
+
+}
+nav ul li a{
+text-decoration:none;
+color: #116493;
+line-height:70px;
+}
